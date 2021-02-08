@@ -7,17 +7,17 @@
 <b>Samples:</b>
 <p align="center">   
   <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim1.jpg" width="250" title="hover text">
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim1-mask" width="350" alt="accessibility text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim1-mask.jpg" width="250" alt="accessibility text">
 </p>
 <p align="center">   
   <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim2.jpg" width="250" title="hover text">
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim2-mask.jpg" width="333" alt="accessibility text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim2-mask.jpg" width="250" alt="accessibility text">
 </p>
 <p align="center">   
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim3.jpg" width="219" title="hover text">
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim3-mask.jpg" width="390" alt="accessibility text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim3.jpg" width="250" title="hover text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim3-mask.jpg" width="250" alt="accessibility text">
 </p>
 <p align="center">   
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim4.jpg" width="219" title="hover text">
-  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim4-mask.jpg" width="185" alt="accessibility text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskesiz/resim4.jpg" width="250" title="hover text">
+  <img src="https://github.com/semihdurgun/create-mask-data-set/blob/main/resim/maskeli/resim4-mask.jpg" width="250" alt="accessibility text">
 </p>
